@@ -1,5 +1,4 @@
-"# Unsupervised-Learning-on-Cifar-10-dataset" 
-**Project Overview**
+# Unsupervised-Learning-on-Cifar-10-dataset
 This project consists of 2 parts.
 For part 1, we will perform K-means clustering on Cifar 10 dataset. We will also perform qualify analysis of our
 result using Average Silhouette Coefficient and Dunn’s Index evaluation metrics.
